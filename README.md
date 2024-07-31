@@ -1,5 +1,12 @@
 ## Hi there 👋
 # Bienvedinos a mi perfil 
+
+Soy Alison Fabiola Batres y tengo 21 años. Actualmente estoy cursando la carrera de Ingeniería en Sistemas, la cual llevo estudiando por dos años y medio. Desde que comencé, cada vez me encanta más el área de la tecnología. Aquí te comparto algunos de los cursos que he realizado:
+
+📚 Introducción a la Ciberseguridad
+🔒 Hacking Ético
+Estoy muy emocionada por seguir aprendiendo y creciendo en este fascinante mundo de la tecnología.
+
 <!--
 **alisonfabiola/alisonfabiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
